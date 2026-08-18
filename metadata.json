@@ -1,0 +1,6 @@
+{
+  "name": "Rodiziômetro",
+  "description": "Contador e placar competitivo em tempo real para rodízios de comida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
